@@ -54,5 +54,3 @@ It would be interesting to conduct a study that collects data on MechaCar and co
 * Statistical Tests : Conducting a multiple linear regression to determine the metrics that have the most significant correlation and predictability with the best fuel efficiency and its impact on the vehicle price.
 
 * Data required for Statitical Test: A random sample of n > 30 for MechaCar and their competitor, would need to be collected including the safety ratings, highway fuel efficiency, and horsepower plus running the data through RStudio.
-
-Using a multiple linear regression statistical summary would show how the variables impact the safety ratings for MechaCar and their competitors.
